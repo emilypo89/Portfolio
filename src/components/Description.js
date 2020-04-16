@@ -22,10 +22,13 @@ export default function Description() {
         Full stack web developer who enjoys creating engaging and accessible applications.
         </Typography>
         <Typography variant="h5" component="h2" gutterBottom>
-          {'To view some of my work check out my portfolio.'}
+          {'Check out some of my work'}
         </Typography>
         <Button variant="contained" color="primary">
           Portfolio
+        </Button>
+        <Button variant="contained" color="primary">
+          GitHub
         </Button>
       </Container>
     </div>
